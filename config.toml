@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://heldenschmiede.netlify.app"
 title = "Unique Sport Club Waldshut-Tiengen"
 theme = "meghna-hugo"
 themesDir = "./"
@@ -11,6 +11,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+defaultcontentlanguage = "de"
 
 ############################# Plugins ##########################
 # css plugins
@@ -77,39 +78,39 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
+################### German Navigation ########################
+[[Languages.de.menu.main]]
+name = "Über uns"
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
+[[Languages.de.menu.main]]
+name = "Unsere Services"
 url = "#services"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+[[Languages.de.menu.main]]
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
+[[Languages.de.menu.main]]
+name = "Team"
 url = "#team"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
+[[Languages.de.menu.main]]
+name = "Preise"
 url = "#pricing"
 weight = 5
 
-[[Languages.fr.menu.main]]
-name = "blog"
+[[Languages.de.menu.main]]
+name = "Blog"
 url = "#blog"
 weight = 6
 
-[[Languages.fr.menu.main]]
-name = "contact"
+[[Languages.de.menu.main]]
+name = "Kontakt"
 url = "#contact"
 weight = 7
 
@@ -117,8 +118,8 @@ weight = 7
 [params]
 logo = "images/heldenschmiede-logo-200.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "Ganzheitliches Kraft- u. Ausdauertraining in kleinen Gruppen mit Coach. Es ist lebendig, energiegeladen und dynamisch. Für JEDEN geeignet!"
+author = "Cyrill Schumacher"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -145,43 +146,42 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Unique-Sports-Club-WT-1203680662981461/"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/unique_sportsclub_wt/"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/c/UNIQUESportsClub"
 
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+################################ German Language ########################
+[Languages.de]
+languageName = "Deutsch"
+languageCode = "de-de"
+contentDir = "content/deutsch"
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2021 by Kraftpack GmbH"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################ English Language ########################
+[Languages.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
 weight = 2
-home = "Accueil"
+home = "Home"
 copyright = "Copyright &copy; 2021 by Kraftpack GmbH"

@@ -1,0 +1,30 @@
+- id: blogTitle
+  translation: Latest Post
+- id: readMore
+  translation: Weiter lesen
+- id: viewAllPost
+  translation: Alle Posts anzeigen
+- id: share
+  translation: Teilen
+- id: aboutAuthor
+  translation: Ueber den Autor
+- id: authorsPosts
+  translation: Beitraege des Autors
+- id: all
+  translation: Alle
+- id: about
+  translation: Ueber uns
+- id: services
+  translation: Service
+- id: portfolio
+  translation: Portfolio
+- id: team
+  translation: Team
+- id: pricing
+  translation: Prese
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Kontakt
+- id: themefisher
+  translation: Themefisher
