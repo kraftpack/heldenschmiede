@@ -1,0 +1,31 @@
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+[build]
+publish = "public"
+command = "hugo -v -b https://heldenschmiede.netlify.app/"
+
+[context.production.environment]
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.split1]
+command = "hugo -v --enableGitInfo -b https://heldenschmiede.netlify.app/"
+
+[context.split1.environment]
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+
+[context.branch-deploy]
+command = "hugo -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
