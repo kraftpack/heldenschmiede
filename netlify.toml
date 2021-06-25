@@ -8,7 +8,7 @@ publish = "public"
 command = "hugo -v --minify -b https://heldenschmiede.netlify.app/"
 
 [context.production.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.84.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -16,14 +16,14 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo -v --minify --enableGitInfo -b https://heldenschmiede.netlify.app/"
 
 [context.split1.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.84.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.85.0"
+HUGO_VERSION = "0.84.1"
 
 [context.branch-deploy]
 command = "hugo --minify -b $DEPLOY_PRIME_URL"
