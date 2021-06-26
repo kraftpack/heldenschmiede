@@ -1,76 +1,84 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Typische Bewegungsablaeufe
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+    - name : Barbell Clean
+      image : images/portfolio/jerk.jpg
+      image_webp : images/portfolio/jerk.jpg.webp
+      categories : ["barbell"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+      link : "https://www.youtube.com/watch?v=KwYJTpQ_x5A"
+
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
+    - name : Barbell Jerk
+      image : images/portfolio/jerk.jpg
+      image_webp : images/portfolio/jerk.jpg.webp
+      categories : ["barbell"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
+      link : "https://www.youtube.com/watch?v=VrHNJXoSyXw"
+
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+    - name : Barbell Snatch
+      image : images/portfolio/snatch.jpg
+      image_webp : images/portfolio/snatch.jpg.webp
+      categories : ["barbell"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+    - name : Barbell Deadlift
+      image : images/portfolio/deadlift.jpg
+      image_webp : images/portfolio/deadlift.jpg.webp
+      categories : ["barbell"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
+    - name : Sumo Deadlift High Pull
+      image : images/portfolio/deadlift.jpg
+      image_webp : images/portfolio/deadlift.jpg.webp
+      categories : ["barbell"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
+    - name : Handstand laufen
+      image : images/portfolio/handstandwalk.jpg
+      image_webp : images/portfolio/handstandwalk.jpg.webp
+      categories : ["gymnastik"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+    - name : Muscle Up
+      image : images/portfolio/ringmuscleups.jpg
+      image_webp : images/portfolio/ringmuscleups.jpg.webp
+      categories : ["gymnastik"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+    - name : Double Unders
+      image : images/portfolio/conditioning.jpg
+      image_webp : images/portfolio/conditioning.jpg.webp
+      categories : ["kondition"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Concept2 Ergs
+      image : images/portfolio/conditioning.jpg
+      image_webp : images/portfolio/conditioning.jpg.webp
+      categories : ["kondition"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Box jumps
+      image : images/portfolio/boxjumps.jpg
+      image_webp : images/portfolio/boxjumps.jpg.webp
+      categories : ["gymnastik"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

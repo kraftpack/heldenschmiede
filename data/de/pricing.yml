@@ -1,64 +1,81 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Unsere Abopreise
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Gold Jahresabo
+      price : 110€
+      unit : Monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Unbegrenzte Anzahl Trainings
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 2 Wochen gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
-      
+
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Gold Halbjahresabo
+      price : 120€
+      unit : Monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Unbegrenzte Anzahl Trainings
+        - Gilt für 6 Monate. Innerhalb der 6 Monaten können zwei hintereinander folgende Wochen Urlaub beantragt werden (Insgesamt 2 Wochen). Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
-        
+
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Gold Monatsabo
+      price : 130€
+      unit : Monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Unbegrenzte Anzahl Training
+        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaub-Rückvergütung.
       button:
         label : "Signup"
         link : "#"
-        
+
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
+    - name : Silber Jahresabo
+      price : 85€
+      unit : Monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 12 Trainings pro Monat
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 2 Wochen gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Silber Halbjahresabo
+      price : 95€
+      unit : Monat
+      services:
+        - 12 Trainings pro Monat
+        - Gilt für 6 Monate. Innerhalb der 6 Monaten können zwei hintereinander folgende Wochen Urlaub beantragt werden (Insgesamt 2 Wochen). Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Silber Monatsabo
+      price : 105€
+      unit : Monat
+      services:
+        - 12 Trainings pro Monat
+        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaub-Rückvergütung.
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Drop In
+      price : 20€
+      unit : pro Einheit
+      services:
+        - Fuer einen Kurs
+        - Oder fuer Open Gym
       button:
         label : "Signup"
         link : "#"
