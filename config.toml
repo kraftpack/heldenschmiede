@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://heldenschmiede.netlify.app"
-title = "Unique Sport Club Waldshut-Tiengen"
+title = "Heldenschmiede Waldshut-Tiengen"
 theme = "meghna-hugo"
 themesDir = "./"
 # post pagination
@@ -10,7 +10,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["en"]
 defaultcontentlanguage = "de"
 
 ############################# Plugins ##########################
@@ -177,7 +177,7 @@ languageCode = "de-de"
 contentDir = "content/deutsch"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 by Kraftpack GmbH"
+copyright = "Copyright &copy; 2021 by Kraftpack GmbH - [Impressum](/blog/impressum_und_datenschutz/)"
 
 ################################ English Language ########################
 [Languages.en]
@@ -186,4 +186,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2021 by Kraftpack GmbH"
+copyright = "Copyright &copy; 2021 by Kraftpack GmbH - [Impressum](/blog/impressum_und_datenschutz/)"

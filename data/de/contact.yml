@@ -2,7 +2,7 @@
 contact:
   enable : true
   title : Kontaktiere uns
-  subtitle : Unsere Kontaktdaten
+  subtitle : Unsere Kontaktdaten / Impressum
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 
   # Contact details
@@ -13,12 +13,17 @@ contact:
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
 
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@heldenschmiede-wt.de"
 
+    - icon : "fas fa-balance-scale"
+      info : "Geschaftsfuehrer: Markus Schmid, Matthias Kurpjuweit"
+
+    - icon : "fas fa-balance-scale"
+      info : "Handelsregister: Amtsgericht Freiburg; HRB: 7741XXXX"
+
+    - icon : "fas fa-balance-scale"
+      info : "Umsatzsteuer ID: DEXXXXXXXXX"
 
   # Contact form
   contact_form:
