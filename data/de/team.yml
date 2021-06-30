@@ -78,3 +78,12 @@ team:
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/"
+
+    - name : Samuel Wächter
+      image_webp : images/team/team-7.webp
+      image : images/team/team-7.jpg
+      designation : Trainer
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/"

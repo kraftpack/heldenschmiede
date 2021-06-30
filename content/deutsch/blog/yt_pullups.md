@@ -1,8 +1,8 @@
 ---
 title: "Pull Ups lernen / Mit Janik"
 date: 2021-03-11T12:52:36+06:00
-image_webp: images/blog/yt_pullups.png.webp
-image: images/blog/yt_pullups.png
+image_webp: images/blog/yt_pullups.jpg.webp
+image: images/blog/yt_pullups.jpg
 author: Markus Schmidt
 description : "This is meta description"
 ---
