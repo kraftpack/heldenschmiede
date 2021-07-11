@@ -7,6 +7,10 @@ image: images/blog/preise.jpg
 description : "This is meta description"
 ---
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 Gold Jahresabo
 	

@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Funktionelle Fitness für jeden in Waldshut-Tiengen"
+  title : "hello Funktionelle Fitness für jeden in Waldshut-Tiengen"
   content : "Die Heldenschmiede ist der ultimative Ort, an dem du Sport für dich noch einmal neu entdeckst. Ein Ort, der dich dazu ermutigt,geistig und körperlich über dich hinaus zu wachsen und zu verbessern. Hier lassen sich die Sorgen des Alltags vergessen und du erlebst eine geniale Zeit, in der du neue Leute kennenlernst und mit ihnen zusammen fitter wirst."
   button:
     enable : true
