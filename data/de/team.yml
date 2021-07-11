@@ -79,7 +79,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
 
     - name : Samuel Wächter
       image_webp : images/team/team-7.webp
@@ -89,3 +89,12 @@ team:
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/"
+
+    - name : Don Oskar vom waldemmengrund
+      image_webp : images/team/team-7.webp
+      image : images/team/team-7.jpg
+      designation : Box-Unterhaltung
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
