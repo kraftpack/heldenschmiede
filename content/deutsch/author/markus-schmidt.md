@@ -1,5 +1,5 @@
 ---
-title: "Markus Schmidt"
+title: "Markus Schmid"
 image: ""
 email: "markus@heldenschmiede-wt.de"
 social:
