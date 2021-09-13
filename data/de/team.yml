@@ -11,7 +11,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/anniroc34/"
 
     # team member loop
     - name : Janik Schaub
@@ -21,7 +21,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/janik_ls/"
 
     # team member loop
     - name : Sevald Krisman
@@ -31,7 +31,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/sevi_gets_fit/"
 
     # team member loop
     - name : Matthias Kurpjuweit
@@ -41,7 +41,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/m.copyright91/"
 
     - name : Jeanette Eckert
       image_webp : images/team/Jeanette_10A2307.webp
@@ -52,7 +52,7 @@ team:
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/"
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/jeanette_eckert_/"
 
     - name : Charline Andrees
       image_webp : images/team/Charline_10A2336.webp
@@ -61,7 +61,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/charline1884/"
 
     - name : Sonia Ashkenazy
       image_webp : images/team/Sonia_10A2331.webp
@@ -70,7 +70,7 @@ team:
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/soneddash/"
 
     - name : Markus Schmid
       image_webp : images/team/Markus_10A2322.webp
@@ -85,10 +85,10 @@ team:
       image_webp : images/team/Sam_10A2325.webp
       image : images/team/Sam_10A2325.jpg
       designation : Trainer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Wenn Samuel nicht gerade in der Box am coachen oder trainieren ist, dann ist er auf dem Mountain Bike in den Bergen unterwegs. Sport gehört zu Samuel wie die Banane.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/"
+          link : "https://www.instagram.com/samuel.waechter/"
 
     - name : Don Oskar vom Waldemmengrund
       image_webp : images/team/Oskar_IMG_1224.webp
@@ -97,4 +97,4 @@ team:
       content : Oskar ist der Box-Chef. Er schläft bei den WODs und nervt sich ab den Strong & Relaxed Kursen, weil er da nicht mitmachen darf. Heimlich essen ist mit ihm in der Box unmöglich.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/don_oskar_vom_waldemmengrund" target=”_blank”
+          link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
