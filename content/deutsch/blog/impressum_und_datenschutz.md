@@ -4,16 +4,14 @@ date: 2021-06-01T12:52:36+06:00
 image_webp: images/blog/impressum.jpg.webp
 image: images/blog/impressum.jpg
 disable_hero_image: true
-author: Markus Schmidt
+author: Markus Schmid
 description : "Impressum"
 ---
 
 ####  Angaben gem&auml;&szlig; &sect; 5 TMG
 
 Kraftpack GmbH
-
 Waldshuterstrasse 25
-
 79761 Waldshut-Tiengen
 
 Handelsregister: HRB 724533 / Registergericht: Amtsgericht Freiburg
