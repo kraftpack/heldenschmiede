@@ -16,25 +16,25 @@ Waldshuterstrasse 25
 
 79761 Waldshut-Tiengen
 
-Handelsregister: HRB 999999  / Registergericht: Amtsgericht Freiburg
+Handelsregister: HRB 724533 / Registergericht: Amtsgericht Freiburg
 
 ####  Vertreten durch:
 - Matthias Kurpjuweit
-- Markus Schmidt
+- Markus Schmid
 
 **Kontakt**
 
-- Telefon: +49 (0) 123 44 55 66
+- Telefon: +49 (0) 173 2971153
 - E-Mail: info@heldenschmiede-wt.de
 
 #### Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:
 
-DE999999999
+20029/19303
 
 Redaktionell verantwortlich
-Beate Beispielhaft
-Musterstra&szlig;e 110
-90210 Musterstadt
+Markus Schmid
+Erlenweg 6
+CH-5312 Döttingen
 
 #### EU-Streitschlichtung
 
