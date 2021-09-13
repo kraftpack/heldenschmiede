@@ -90,11 +90,11 @@ team:
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/"
 
-    - name : Don Oskar vom waldemmengrund
+    - name : Don Oskar vom Waldemmengrund
       image_webp : images/team/Oskar_IMG_1224.webp
       image : images/team/Oskar_IMG_1224.jpeg
       designation : Box-Unterhaltung
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Oskar ist der Box-Chef. Er schläft bei den WODs und nervt sich ab den Strong & Relaxed Kursen, weil er da nicht mitmachen darf. Heimlich essen ist mit ihm in der Box unmöglich.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
+          link : target=”_blank” "https://www.instagram.com/don_oskar_vom_waldemmengrund"
