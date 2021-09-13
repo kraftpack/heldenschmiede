@@ -5,7 +5,7 @@ team:
   team_member :
     # team member loop
     - name : Corinna Furlani
-      image_webp : images/team/team-1.webp
+      image_webp : images/team/Corinna_10A2301.webp
       image : images/team/Corinna_10A2301.jpg
       designation : CF Level 1 Trainer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -15,7 +15,7 @@ team:
 
     # team member loop
     - name : Janik Schaub
-      image_webp : images/team/team-2.webp
+      image_webp : images/team/Janik_10A2295.webp
       image : images/team/Janik_10A2295.jpg
       designation : CF Level 1 Trainer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -25,7 +25,7 @@ team:
 
     # team member loop
     - name : Sevald Krisman
-      image_webp : images/team/team-3.webp
+      image_webp : images/team/Sevald_10A2315.webp
       image : images/team/Sevald_10A2315.jpg
       designation : CF Level 1 Trainer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -35,7 +35,7 @@ team:
 
     # team member loop
     - name : Matthias Kurpjuweit
-      image_webp : images/team/team-4.webp
+      image_webp : images/team/Matz_10A2347.webp
       image : images/team/Matz_10A2347.jpg
       designation : Geschäftsführender Gesellschafter
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -44,7 +44,7 @@ team:
           link : "https://www.instagram.com/"
 
     - name : Jeanette Eckert
-      image_webp : images/team/team-5.webp
+      image_webp : images/team/Jeanette_10A2307.webp
       image : images/team/Jeanette_10A2307.jpg
       designation : Mini & Me Trainerin
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -55,7 +55,7 @@ team:
           link : "https://www.instagram.com/"
 
     - name : Charline Andrees
-      image_webp : images/team/team-6.webp
+      image_webp : images/team/Charline_10A2336.webp
       image : images/team/Charline_10A2336.jpg
       designation : Trainerin
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -64,7 +64,7 @@ team:
           link : "https://www.instagram.com/"
 
     - name : Sonia Ashkenazy
-      image_webp : images/team/team-7.webp
+      image_webp : images/team/Sonia_10A2331.webp
       image : images/team/Sonia_10A2331.jpg
       designation : Mini & Me Trainerin
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -73,7 +73,7 @@ team:
           link : "https://www.instagram.com/"
 
     - name : Markus Schmid
-      image_webp : images/team/team-7.webp
+      image_webp : images/team/Markus_10A2322.webp
       image : images/team/Markus_10A2322.jpg
       designation : Geschäftsführender Gesellschafter
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -82,7 +82,7 @@ team:
           link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
 
     - name : Samuel Wächter
-      image_webp : images/team/team-7.webp
+      image_webp : images/team/Sam_10A2325.webp
       image : images/team/Sam_10A2325.jpg
       designation : Trainer
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -91,8 +91,8 @@ team:
           link : "https://www.instagram.com/"
 
     - name : Don Oskar vom waldemmengrund
-      image_webp : images/team/team-7.webp
-      image : images/team/team-7.jpg
+      image_webp : images/team/Oskar_IMG_1224.webp
+      image : images/team/Oskar_IMG_1224.jpeg
       designation : Box-Unterhaltung
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
