@@ -3,9 +3,4 @@ banner:
   enable : true
   bg_image_webp : "images/backgrounds/AllemitLogo.webp"
   bg_image : "images/backgrounds/AllemitLogo.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Funktionelles Fitness für jeden"
-  button:
-    enable : true
-    label : "Jetzt Termin vereinbaren"
-    link : "#contact"
+
