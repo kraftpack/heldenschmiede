@@ -11,19 +11,19 @@ contact:
       info : "Kraftpack GmbH, Waldshuter Str. 25, DE-79761 Waldshut-Tiengen"
 
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +49 173 2971153"
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@heldenschmiede-wt.de"
 
     - icon : "fas fa-balance-scale"
-      info : "Geschaftsfuehrer: Markus Schmid, Matthias Kurpjuweit"
+      info : "Geschäftsführer: Markus Schmid, Matthias Kurpjuweit"
 
     - icon : "fas fa-balance-scale"
-      info : "Handelsregister: Amtsgericht Freiburg; HRB: 7741XXXX"
+      info : "Handelsregister: Amtsgericht Freiburg; HRB: 724533"
 
     - icon : "fas fa-balance-scale"
-      info : "Umsatzsteuer ID: DEXXXXXXXXX"
+      info : "Umsatzsteuer ID: 20029/19303"
 
   # Contact form
   contact_form:
