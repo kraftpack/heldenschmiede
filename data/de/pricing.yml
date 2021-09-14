@@ -4,78 +4,177 @@ pricing:
   title : Unsere Abopreise
   pricing_table :
     # pricing table loop
-    - name : Gold Jahresabo
+    - name : Goldabo 1 Jahr
       price : 110€
       unit : Monat
       services:
         - Unbegrenzte Anzahl Trainings
-        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 2 Wochen gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Gold Halbjahresabo
+    - name : Goldabo 1/2 Jahr
       price : 120€
       unit : Monat
       services:
         - Unbegrenzte Anzahl Trainings
-        - Gilt für 6 Monate. Innerhalb der 6 Monaten können zwei hintereinander folgende Wochen Urlaub beantragt werden (Insgesamt 2 Wochen). Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 6 Monate. Läuft automatisch in ein weiteres Halbjahresabo. Es können innerhalb der 6 Monate 2 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Gold Monatsabo
+    - name : Goldabo Monat
       price : 130€
       unit : Monat
       services:
-        - Unbegrenzte Anzahl Training
-        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaub-Rückvergütung.
+        - Unbegrenzte Anzahl Trainings
+        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaubs-Rückvergütung.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Silber Jahresabo
+    - name : Silberabo 1 Jahr
       price : 85€
       unit : Monat
       services:
         - 12 Trainings pro Monat
-        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 2 Wochen gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Silber Halbjahresabo
+    - name : Silberabo 1/2 Jahr
       price : 95€
       unit : Monat
       services:
         - 12 Trainings pro Monat
-        - Gilt für 6 Monate. Innerhalb der 6 Monaten können zwei hintereinander folgende Wochen Urlaub beantragt werden (Insgesamt 2 Wochen). Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 6 Monate. Läuft automatisch in ein weiteres Halbjahresabo. Es können innerhalb der 6 Monate 2 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Silber Monatsabo
+    - name : Silberabo Monat
       price : 105€
       unit : Monat
       services:
         - 12 Trainings pro Monat
-        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaub-Rückvergütung.
+        - Gilt für 1 Monat. Keine automatische Erneuerung, keine Urlaubs-Rückvergütung.
       button:
         label : "Signup"
         link : "#"
 
     # pricing table loop
-    - name : Drop In
-      price : 20€
-      unit : pro Einheit
+    - name : Starter Kit / Probemonat
+      price : 69€
+      unit : Monat
       services:
-        - Fuer einen Kurs
-        - Oder fuer Open Gym
+        - Unbegrenzte Anzahl Trainings
+        - Gilt für 1 Monat und kann nur einmal eingelöst werden. Läuft nachher automatisch in ein Silberabo Monat über, wenn nichts anderes gewünscht. keine Urlaubs-Rückvergütung.
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : 10er Karte
+      price : 140€
+      unit : einmalig
+      services:
+        - Keine Kursbeschränkung
+        - Gültig 4 Monate
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Mini & Me Karte
+      price : 120€
+      unit : einmalig
+      services:
+        - 12 Kursteilnehmen
+        - Gültig 4 Monate
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Strong & Relaxed
+      price : 100€
+      unit : einmalig
+      services:
+        - 12 Kursteilnehmen
+        - Gültig 4 Monate
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Open Gym Abo
+      price : 80€
+      unit : Monat
+      services:
+        - Unbegrenzte Anzahl Trainings
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Personal Training
+      price : 60€
+      unit : einmalig
+      services:
+        - pro Training
+        - Gültig 5 Monate
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Personal Training
+      price : 500€
+      unit : einmalig
+      services:
+        - 10 Trainings
+        - Gültig 5 Monate
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Progression Plan
+      price : 50€
+      unit : einmalig
+      services:
+        - pro Plan, ohne Analyse
+        - Blablabla
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Progression Plan
+      price : 90€
+      unit : einmalig
+      services:
+        - pro Plan, inkl. Analyse
+        - Blablabla
+      button:
+        label : "Signup"
+        link : "#"
+
+    # pricing table loop
+    - name : Persönlicher Trainingsplan
+      price : 80€
+      unit : einmalig
+      services:
+        - pro Plan
+        - Gültig 5 Monate
       button:
         label : "Signup"
         link : "#"
