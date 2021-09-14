@@ -87,12 +87,12 @@ url = "#about"
 weight = 1
 
 [[Languages.de.menu.main]]
-name = "Unsere Services"
+name = "Corona"
 url = "#services"
 weight = 2
 
 [[Languages.de.menu.main]]
-name = "Portfolio"
+name = "Bewegungsabläufe"
 url = "#portfolio"
 weight = 3
 
@@ -102,12 +102,12 @@ url = "#team"
 weight = 4
 
 [[Languages.de.menu.main]]
-name = "Preise"
+name = "Mitgliedschaft"
 url = "#pricing"
 weight = 5
 
 [[Languages.de.menu.main]]
-name = "Blog"
+name = "Beiträge"
 url = "#blog"
 weight = 6
 
