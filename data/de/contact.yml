@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Kontaktiere uns
+  title : KONTAKTIERE UNS
   subtitle : Unsere Kontaktdaten / Impressum
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : Gerne kannst du uns auf dem klassischen Wege kontaktieren, egal ob per Mobile, E-Mail oder per Brief. Oder du hinterlässt uns hier deine Kontaktdaten und vielleicht auch noch ein paar Worte und wir melden uns umgehend bei dir.
 
   # Contact details
   contact_list:
@@ -31,6 +31,7 @@ contact:
     form_action : "#" #contact form works with https://formspree.io
     name : "Dein Name"
     email : "Deine Email Adresse"
+    telephone : "Deine Telefonnummer"
     subject : "Betreff"
     message : "Nachricht"
     submit : "Abschicken"
