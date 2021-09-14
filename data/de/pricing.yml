@@ -1,7 +1,7 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Unsere Abopreise
+  title : UNSERE MITGLIEDSCHAFTEN
   pricing_table :
     # pricing table loop
     - name : Goldabo 1 Jahr
