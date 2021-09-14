@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Typische Bewegungsablaeufe
+  title : TYPISCHE BEWEGUNGSABLÄUFE
   portfolio_item :
     # portfolio item loop
     - name : Barbell Clean
