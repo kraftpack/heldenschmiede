@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Corona Regeln
+  title : CORONA REGELN
   service_item :
     # service item loop
     - name : Garderoben offen
       icon : "fas fa-tshirt"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Unsere Garderoben sind geöffnet inkl. Duschen.
 
     # service item loop
     - name : Training im eigenen Feld
       icon : "fas fa-square"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Je nach Kurs lassen wir nur 16 Personen trainieren. Somit werden die geltenden Corona-Regeln eingehalten.
 
     # service item loop
     - name : Abstand halten
       icon : "fas fa-people-arrows"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Wir halten alle Abstand zueinander im und neben dem Feld.
 
     # service item loop
-    - name : Geimpft oder getestet
+    - name : Geimpft, getestet oder genesen
       icon : "fas fa-syringe"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Wir tragen bei Deinem ersten Besuch Deinen aktuellen Status im System ein, so wissen unsere Coaches auch Bescheid.
 
     # service item loop
     - name : Equipment desinfizieren
       icon : "fas fa-hand-sparkles"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Nach dem Workout desinfizieren wir unser Equipment und putzen den groben Schmutz (Chalk) weg. So hat auch der nächste Teilnehmer wieder Freude am Training.
 
     # service item loop
     - name : Maske auf im Eingang
       icon : "fas fa-head-side-mask"
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Im Eingangsbereich tragen wir eine Maske, wenn der Abstand nicht eingealten werden kann.
