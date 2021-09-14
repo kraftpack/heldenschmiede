@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/home_5.jpg
   image_webp : images/about/home_5.webp
-  title : Wir sind Dein zweites Zuhause
+  title : WIR SIND DEIN ZWEITES ZUHAUSE
   content : "Verbringe mehrere Stunden pro Woche beim Trainieren, Mobilisieren, Schwitzen, Abschalten und beim Kontakte knüpfen und pflegen. Lass diesen Ort zu deinem werden, an dem du dich wohl fühlst und sein kannst, wie du bist."
   feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : OPEN MINDED
+      icon : ti-crown # themify icon pack : https://themify.me/themify-icons
+      content : Bei uns dürfen alle trainieren, egal welche Hautfarbe, gewähltes Geschlecht, sexuelle Orientierung, Kulturangehörigkeit oder was auch immer andere als anders betrachten. Uns vereint der Sport! Und nur das zählt.
 
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : CONSIDERATION
+      icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+      content : Wir nehmen Rücksicht aufeinander und helfen uns gegenseitig, unsere Ziele zu erreichen. Wir feuern uns gegenseitig an und sind offen für Inputs und neue Bekanntschaften.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : BEHAVIOR
+      icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+      content : Wir halten Sorge zu den Gerätschaften und unseren Mitmenschen. Wir sind EINE Community und stolz drauf. Aggressionen und Hass haben bei uns nichts zu suchen.
 
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : TRANSFORMATION
+      icon : ti-star # themify icon pack : https://themify.me/themify-icons
+      content : Wir versuchen immer mit der besten Laune in die Box zu kommen und werden die Box mit einer noch besseren Laune wieder verlassen.
