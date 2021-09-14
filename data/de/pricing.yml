@@ -175,6 +175,3 @@ pricing:
       services:
         - pro Plan
         - Gültig 5 Monate
-      button:
-        label : "Signup"
-        link : "#"
