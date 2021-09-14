@@ -31,7 +31,6 @@ contact:
     form_action : "#" #contact form works with https://formspree.io
     name : "Dein Name"
     email : "Deine Email Adresse"
-    telephone : "Deine Telefonnummer"
     subject : "Betreff"
     message : "Nachricht"
     submit : "Abschicken"
