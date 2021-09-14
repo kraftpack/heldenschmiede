@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : Training im eigenen Feld
       icon : "fas fa-square"
-      content : Je nach Kurs lassen wir nur 16 Personen trainieren. Somit werden die geltenden Corona-Regeln eingehalten.
+      content : Je nach Kurs lassen wir nur 16 Personen trainieren.
 
     # service item loop
     - name : Abstand halten
@@ -19,14 +19,14 @@ service:
       content : Wir halten alle Abstand zueinander im und neben dem Feld.
 
     # service item loop
-    - name : Geimpft, getestet oder genesen
+    - name : Geimpft, get.....
       icon : "fas fa-syringe"
       content : Wir tragen bei Deinem ersten Besuch Deinen aktuellen Status im System ein, so wissen unsere Coaches auch Bescheid.
 
     # service item loop
     - name : Equipment desinfizieren
       icon : "fas fa-hand-sparkles"
-      content : Nach dem Workout desinfizieren wir unser Equipment und putzen den groben Schmutz (Chalk) weg. So hat auch der nächste Teilnehmer wieder Freude am Training.
+      content : Nach dem Workout desinfizieren wir unser Equipment und putzen den groben Schmutz (Chalk) weg.
 
     # service item loop
     - name : Maske auf im Eingang
