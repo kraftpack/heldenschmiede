@@ -20,6 +20,6 @@ funfacts:
       count : "158"
 
     # counter item loop
-    - title : "Fit Aid getrunken"
+    - title : "FitAid getrunken"
       icon : "ti-paint-bucket" # themify icon pack : https://themify.me/themify-icons
       count : "2250"
