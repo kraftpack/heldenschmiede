@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Akltuellen EBitraege
+  translation: AKTUELLE BEITRÄGE
 - id: readMore
   translation: Weiter lesen
 - id: viewAllPost
@@ -7,13 +7,13 @@
 - id: share
   translation: Teilen
 - id: aboutAuthor
-  translation: Ueber den Autor
+  translation: Über den Autor
 - id: authorsPosts
-  translation: Beitraege des Autors
+  translation: Beiträge des Autors
 - id: all
   translation: Alle
 - id: about
-  translation: Ueber uns
+  translation: Über uns
 - id: services
   translation: Service
 - id: portfolio
@@ -21,7 +21,7 @@
 - id: team
   translation: Team
 - id: pricing
-  translation: Prese
+  translation: Presse
 - id: blog
   translation: Blog
 - id: contact
