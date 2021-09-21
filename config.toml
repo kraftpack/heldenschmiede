@@ -148,15 +148,15 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Unique-Sports-Club-WT-1203680662981461/"
+link = "https://www.facebook.com/heldenschmiede.wt/"
 
 [[params.social]]
 icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.instagram.com/unique_sportsclub_wt/"
+link = "https://www.instagram.com/heldenschmiede_wt/"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.youtube.com/c/UNIQUESportsClub"
+link = "https://www.youtube.com/channel/UC2poCL5f9AZ94pAIlTvnHbg"
 
 #[[params.social]]
 #icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons

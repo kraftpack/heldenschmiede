@@ -1,7 +1,7 @@
 ---
 title: "Unsere Preise"
 date: 2021-06-12T14:51:12+06:00
-author: Markus Schmidt
+author: Markus Schmid
 image_webp: images/blog/preise.jpg.webp
 image: images/blog/preise.jpg
 description : "This is meta description"
