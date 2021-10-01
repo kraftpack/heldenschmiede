@@ -37,7 +37,7 @@ team:
     - name : Matthias Kurpjuweit
       image_webp : images/team/Matz_10A2347.webp
       image : images/team/Matz_10A2347.jpg
-      designation : Geschäftsführender Gesellschafter / CF Level 1 Coach
+      designation : Geschäftsführender Gesellschafter
       content : 3. Rang Deutsche Bundesmeisterschaft funktionaler Fitness, braucht es da noch mehr Worte??? Ne oder?
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
@@ -66,7 +66,7 @@ team:
     - name : Sonia Ashkenazy
       image_webp : images/team/Sonia_10A2331.webp
       image : images/team/Sonia_10A2331.jpg
-      designation : Mini & Me Trainerin
+      designation : Trainerin
       content : Sonia könnte den ganzen Tag im Handstand laufen, ein Wirbelwind auf 2 Händen oder Füssen, je nach dem.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
@@ -75,7 +75,7 @@ team:
     - name : Markus Schmid
       image_webp : images/team/Markus_10A2322.webp
       image : images/team/Markus_10A2322.jpg
-      designation : Geschäftsführender Gesellschafter / Fitnesstrainer
+      designation : Geschäftsführender Gesellschafter
       content : Der Schweizer, kam, sah und kaufte die Box mit Matz zusammen. Lebt grad so wies ihm passt.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
@@ -93,8 +93,8 @@ team:
     - name : Don Oskar vom Waldemmengrund
       image_webp : images/team/Oskar_IMG_1224.webp
       image : images/team/Oskar_IMG_1224.jpeg
-      designation : Box-Unterhaltung
-      content : Oskar ist der Box-Chef. Er schläft bei den WODs und nervt sich ab den Strong & Relaxed Kursen, weil er da nicht mitmachen darf. Heimlich essen ist mit ihm in der Box unmöglich.
+      designation : Box-Chef
+      content : Er schläft bei den WODs und nervt sich ab den Strong & Relaxed Kursen, weil er da nicht mitmachen darf. Heimlich essen ist mit ihm in der Box unmöglich.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
