@@ -1,7 +1,7 @@
 ---
 title: "Impressum und Datenschutz"
 date: 2021-08-01T12:52:36+06:00
-image_webp: images/blog/impressum.jpg.webp
+image_webp: images/blog/impressum.webp
 image: images/blog/impressum.jpg
 disable_hero_image: true
 author: Markus Schmid
