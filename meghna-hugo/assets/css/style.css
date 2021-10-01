@@ -410,6 +410,8 @@ a:hover {
   background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
+  line-height: 3;
+  font-family:'Roboto', sans-serif;;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
