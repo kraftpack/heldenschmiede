@@ -1,8 +1,8 @@
 ---
 title: "Tough'n'Rough St. Gallen 2020"
 date: 2020-09-12T12:52:36+06:00
-image_webp: images/blog/2020-09-12-tnr-stgallen/2020-09-12IMG_1295.jpg.webp
-image: images/blog/2020-09-12-tnr-stgallen/2020-09-12IMG_1295.jpg
+image_webp: images/blog/tnr2020.webp
+image: images/blog/tnr2020.jpg
 author: Markus Schmid
 description : "Tough'n'Rough St. Gallen 2020"
 ---
