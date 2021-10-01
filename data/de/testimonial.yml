@@ -8,19 +8,19 @@ testimonial:
     - name : Cyrill Schumacher
       image : images/client/cyrill.jpg
       image_webp : images/client/cyrill.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Aug 01, 2021
+      content : Huge box! Perfectly styled! Coaches with an in-depth knowledge and they also act as "one's hero". People are very welcoming here! 👏👏👏
 
     # testimonial item loop
-    - name : Josua Ambühl
-      image : images/client/josua.jpg
-      image_webp : images/client/josua.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Anne Löffler
+      image : images/client/Anne.jpg
+      image_webp : images/client/Anne.webp
+      date : Sept 23, 2021
+      content : Super Coaches, geniale Box, tolle Leute, einfach alles bestens 😊 👍🏻👌🏻💪🏻. Besser als jedes Gym.
 
     # testimonial item loop
     - name : Julia Neff
       image : images/client/julianeff.jpg
       image_webp : images/client/julianeff.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Okt 01, 2021
+      content : Tolle Box, offen und ehrlich, gute Community aus der immer wieder Freundschaften entstehen. Kommme immer gerne hier hin zum Trainieren. ❤️❤️❤️
