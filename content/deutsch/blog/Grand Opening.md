@@ -8,5 +8,5 @@ author: Markus Schmid
 description : "Grand Opening"
 ---
 
+{{< hsimg src="/images/blog/Flyer A5 VS.jpg" title="Flyer Front" >}}
 
-image: images/blog/Flyer A5 VS.jpg
