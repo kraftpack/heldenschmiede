@@ -9,4 +9,4 @@ description : "This is meta description"
 
 In diesem Video zeigt euch Coach Matz Toes-to-Bar.
 
-{{< youtube id="cj2u1eoLz-w" title="Toes-to-Bars lernen / Mit Matz">}}
+{{< youtube id="cj2u1eoLz-w" title="Toes-to-Bars lernen / mit Matz">}}
