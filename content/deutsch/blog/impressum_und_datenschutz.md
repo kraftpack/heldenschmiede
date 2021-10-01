@@ -10,8 +10,8 @@ description : "Impressum"
 
 ####  Angaben gem&auml;&szlig; &sect; 5 TMG
 
-Kraftpack GmbH
-Waldshuterstrasse 25
+Kraftpack GmbH •
+Waldshuterstrasse 25 •
 79761 Waldshut-Tiengen
 
 Handelsregister: HRB 724533 / Registergericht: Amtsgericht Freiburg
@@ -30,8 +30,8 @@ Handelsregister: HRB 724533 / Registergericht: Amtsgericht Freiburg
 20029/19303
 
 Redaktionell verantwortlich
-Markus Schmid
-Erlenweg 6
+Markus Schmid •
+Erlenweg 6 •
 CH-5312 Döttingen
 
 #### EU-Streitschlichtung
