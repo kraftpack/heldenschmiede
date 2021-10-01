@@ -16,12 +16,12 @@ service:
     # service item loop
     - name : Abstand halten
       icon : "fas fa-people-arrows"
-      content : Wir halten alle Abstand zueinander im und neben dem Feld.
+      content : Wir halten alle Abstand zueinander in und neben dem Feld.
 
     # service item loop
     - name : Geimpft, get.....
       icon : "fas fa-syringe"
-      content : Wir tragen bei Deinem ersten Besuch Deinen aktuellen Status im System ein, so wissen unsere Coaches auch Bescheid.
+      content : Wir tragen bei deinem ersten Besuch deinen aktuellen Status im System ein, so wissen unsere Coaches auch Bescheid.
 
     # service item loop
     - name : Equipment desinfizieren
@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : Maske auf im Eingang
       icon : "fas fa-head-side-mask"
-      content : Im Eingangsbereich tragen wir eine Maske, wenn der Abstand nicht eingealten werden kann.
+      content : Im Eingangsbereich tragen wir eine Maske, wenn der Abstand nicht eingehalten werden kann.
