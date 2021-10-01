@@ -7,18 +7,18 @@ team:
     - name : Corinna Furlani
       image_webp : images/team/Corinna_10A2301.webp
       image : images/team/Corinna_10A2301.jpg
-      designation : CF Level 1 Trainer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CF Level 1 Coach
+      content : Mag Hunde, ist humorvoll, sympathisch, voll motiviert und für jede Wanderung zu haben.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/anniroc34/"
 
     # team member loop
-    - name : Janik Schaub
+    - name : Janik "J" Schaub
       image_webp : images/team/Janik_10A2295.webp
       image : images/team/Janik_10A2295.jpg
-      designation : CF Level 1 Trainer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CF Level 1 Coach
+      content : Unser Box-Hulk, stark wie ein frisch gepflanzter Baum, nimmt das Training echt ernst.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/janik_ls/"
@@ -27,8 +27,8 @@ team:
     - name : Sevald Krisman
       image_webp : images/team/Sevald_10A2315.webp
       image : images/team/Sevald_10A2315.jpg
-      designation : CF Level 1 Trainer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CF Level 1 Coach
+      content : Papa von bald 3 Kindern, trotzdem keine Augenringe. Wenn er ein Ziel hat, erreicht er es auch.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/sevi_gets_fit/"
@@ -37,17 +37,17 @@ team:
     - name : Matthias Kurpjuweit
       image_webp : images/team/Matz_10A2347.webp
       image : images/team/Matz_10A2347.jpg
-      designation : Geschäftsführender Gesellschafter
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Geschäftsführender Gesellschafter / CF Level 1 Coach
+      content : 3. Rang Deutsche Bundesmeisterschaft funktionaler Fitness, braucht es da noch mehr Worte??? Ne oder?
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/m.copyright91/"
 
-    - name : Jeanette Eckert
+    - name : Fiona Pfister
       image_webp : images/team/Jeanette_10A2307.webp
       image : images/team/Jeanette_10A2307.jpg
-      designation : Mini & Me Trainerin
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : CF Level 1 Coach
+      content : Coacht auch im CrossFit Pyrgos in Meilen ZH, studiert und arbeitet noch 80%. Hat sonst auch ein Leben :-)
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/"
@@ -58,7 +58,7 @@ team:
       image_webp : images/team/Charline_10A2336.webp
       image : images/team/Charline_10A2336.jpg
       designation : Trainerin
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Macht die Weiterbildung zur Prä- und Postnataler Fitnesstrainerin und wird bald die Mrs. Kurpjuweit.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/charline1884/"
@@ -67,7 +67,7 @@ team:
       image_webp : images/team/Sonia_10A2331.webp
       image : images/team/Sonia_10A2331.jpg
       designation : Mini & Me Trainerin
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Sonia könnte den ganzen Tag im Handstand laufen, ein Wirbelwind auf 2 Händen oder Füssen, je nach dem.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/soneddash/"
@@ -75,8 +75,8 @@ team:
     - name : Markus Schmid
       image_webp : images/team/Markus_10A2322.webp
       image : images/team/Markus_10A2322.jpg
-      designation : Geschäftsführender Gesellschafter
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      designation : Geschäftsführender Gesellschafter / Fitnesstrainer
+      content : Der Schweizer, kam, sah und kaufte die Box mit Matz zusammen. Lebt grad so wies ihm passt.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/don_oskar_vom_waldemmengrund"
@@ -85,7 +85,7 @@ team:
       image_webp : images/team/Sam_10A2325.webp
       image : images/team/Sam_10A2325.jpg
       designation : Trainer
-      content : Wenn Samuel nicht gerade in der Box am coachen oder trainieren ist, dann ist er auf dem Mountain Bike in den Bergen unterwegs. Sport gehört zu Samuel wie die Banane.
+      content : Samuel und die Bananen, eine Liebesgeschichte in 3 Bissen. Gamer, manchmal ein Nerd, aber immer da wenn man ihn braucht.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/samuel.waechter/"
