@@ -8,7 +8,7 @@ team:
       image_webp : images/team/Corinna_10A2301.webp
       image : images/team/Corinna_10A2301.jpg
       designation : CF Level 1 Coach
-      content : Mag Hunde, ist humorvoll, sympathisch, voll motiviert und für jede Wanderung zu haben.
+      content : Mag Hunde, ist humorvoll, sympathisch, voll motiviert und für jede Wanderung zu haben. Verliert im Siedler oft.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/anniroc34/"
@@ -18,7 +18,7 @@ team:
       image_webp : images/team/Janik_10A2295.webp
       image : images/team/Janik_10A2295.jpg
       designation : CF Level 1 Coach
-      content : Unser Box-Hulk, stark wie ein frisch gepflanzter Baum, nimmt das Training echt ernst.
+      content : Unser Box-Hulk, stark wie ein frisch gepflanzter Baum, nimmt das Training echt ernst. Lässt sich gerne challengen!
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/janik_ls/"
@@ -38,7 +38,7 @@ team:
       image_webp : images/team/Matz_10A2347.webp
       image : images/team/Matz_10A2347.jpg
       designation : Geschäftsführender Gesellschafter
-      content : 3. Rang Deutsche Bundesmeisterschaft funktionaler Fitness, braucht es da noch mehr Worte??? Ne oder?
+      content : Rang 3 bei der Deutsche Bundesmeisterschaft funktionaler Fitness, braucht es da noch mehr Worte??? Ne oder?
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/m.copyright91/"
