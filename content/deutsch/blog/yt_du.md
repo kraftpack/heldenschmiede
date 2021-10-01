@@ -1,8 +1,8 @@
 ---
 title: "Double Unders lernen mit Matz"
 date: 2021-03-16T12:52:36+06:00
-image_webp: images/blog/yt-doubleunders.webp
-image: images/blog/yt-doubleunders.jpg
+image_webp: images/blog/yt_doubleunders.webp
+image: images/blog/yt_doubleunders.jpg
 author: Markus Schmid
 description : "This is meta description"
 ---
