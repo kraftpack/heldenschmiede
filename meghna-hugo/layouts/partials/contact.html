@@ -37,7 +37,7 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
+				<form action="https://formspree.io/f/xayakoky" method="POST">
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
 					</div>
@@ -55,20 +55,7 @@
 							value="{{ .submit }}">{{ .submit }}</button>
 					</div>
 				</form>
-				<!-- modify this form HTML and place wherever you want your form -->
-				<form action="https://formspree.io/f/xayakoky"
-						method="POST">
-					<label>
-						Your email:
-						<input type="email" name="_replyto">
-					</label>
-					<label>
-						Your message:
-						<textarea name="message"></textarea>
-					</label>
-					<!-- your other form fields go here -->
-					<button type="submit">Send</button>
-				</form>
+
 			</div>
 			{{ end }}
 			{{ else }}
