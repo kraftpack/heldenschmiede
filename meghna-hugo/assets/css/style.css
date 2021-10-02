@@ -1234,6 +1234,7 @@ a:hover {
 
 .post-block .content {
   padding: 20px;
+  height:240px;
 }
 
 .post-block .content h3 {
