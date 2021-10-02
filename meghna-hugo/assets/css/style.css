@@ -810,6 +810,7 @@ a:hover {
 .price-title {
   background-color: #292F36;
   padding: 30px 0 20px;
+  height:150px;
 }
 
 .price-title h3 {
@@ -846,6 +847,7 @@ a:hover {
 
 .pricing li:nth-child(2n) {
   background-color: #292F36;
+  height:250px;
 }
 
 .pricing li .btn {
