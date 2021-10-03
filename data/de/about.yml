@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : ÜBER UNSS
+  title : ÜBER UNS
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Kreativ

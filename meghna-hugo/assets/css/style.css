@@ -28,10 +28,11 @@ h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
   color: #afbac4;
+  font-weight: bold;
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -111,6 +112,12 @@ a:hover {
 
 .btn-transparent {
   border: 1px solid #4e595f;
+  position: absolute;
+  top: 380px;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  left: 100px;
 }
 
 .btn-transparent:hover,
@@ -410,6 +417,9 @@ a:hover {
   background-color: #1d2024;
   width: 100%;
   margin-bottom: 0;
+  line-height: 3;
+  font-family:'Roboto', sans-serif;
+  font-size: 1.5rem;
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
@@ -445,7 +455,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0.1);
   position: absolute;
   top: 0;
   right: 0;
@@ -801,11 +811,13 @@ a:hover {
   border: 1px solid rgba(236, 239, 241, 0.07);
   padding-bottom: 30px;
   margin-bottom: 15px;
+  height:440px;
 }
 
 .price-title {
   background-color: #292F36;
   padding: 30px 0 20px;
+  height:150px;
 }
 
 .price-title h3 {
@@ -842,6 +854,7 @@ a:hover {
 
 .pricing li:nth-child(2n) {
   background-color: #292F36;
+  height:250px;
 }
 
 .pricing li .btn {
@@ -950,6 +963,7 @@ a:hover {
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
   margin-bottom: 40px;
+  height: 350px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
 
@@ -1099,6 +1113,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  height: 210px;
 }
 
 .member-meta h4 {
@@ -1106,7 +1121,7 @@ a:hover {
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-size: 15px;
 }
 
 /*=================================================================
@@ -1226,6 +1241,7 @@ a:hover {
 
 .post-block .content {
   padding: 20px;
+  height:240px;
 }
 
 .post-block .content h3 {
