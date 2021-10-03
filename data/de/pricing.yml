@@ -9,7 +9,7 @@ pricing:
       unit : Monat
       services:
         - Unbegrenzte Anzahl Trainings
-        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 12 Monate, wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abz. Euro 15.- für administrative Aufwände.
 
     # pricing table loop
     - name : Goldabo 1/2 Jahr
@@ -33,7 +33,7 @@ pricing:
       unit : Monat
       services:
         - 12 Trainings pro Monat
-        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abz. Euro 15.- für administrative Aufwände.
 
     # pricing table loop
     - name : Silberabo 1/2 Jahr
@@ -68,6 +68,22 @@ pricing:
         - Gültig 4 Monate
 
     # pricing table loop
+    - name : 25er Karte
+      price : 325€
+      unit : einmalig
+      services:
+        - Keine Kursbeschränkung
+        - Gültig 6 Monate
+
+    # pricing table loop
+    - name : 50er Karte
+      price : 550€
+      unit : einmalig
+      services:
+        - Keine Kursbeschränkung
+        - Gültig 12 Monate
+
+    # pricing table loop
     - name : Mini & Me Karte
       price : 120€
       unit : einmalig
@@ -89,7 +105,7 @@ pricing:
       unit : Monat
       services:
         - Unbegrenzte Anzahl Trainings
-        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abzüglich Euro 15.- für administrative Aufwände.
+        - Gilt für 12 Monate und wird monatlich abgebucht. Läuft automatisch in ein weiteres Jahresabo. Es können innerhalb der 12 Monate 4 Wochen Urlaub beantragt werden. Der Zeitraum kann auf jeweils 1 Woche gesplittet werden. Rückzahlung des Beitrages in Bar abz. Euro 15.- für administrative Aufwände.
 
     # pricing table loop
     - name : Personal Training
@@ -113,7 +129,7 @@ pricing:
       unit : einmalig
       services:
         - pro Plan, ohne Analyse
-        - Blablabla
+        - Der Progression Plan ist ein persönlich auf dich abgestimmter 6-wöchiger Plan. Der Plan enthält 2 zusätzliche Einheiten pro Woche, in denen du an zwei wählbaren Übungen arbeitest.
 
     # pricing table loop
     - name : Progression Plan
@@ -121,7 +137,7 @@ pricing:
       unit : einmalig
       services:
         - pro Plan, inkl. Analyse
-        - Blablabla
+        - Dieses Paket beinhaltet zusätzlich zu deinem Progression Plan eine einmalige 45-minütige Analyse, wodurch der Progression Plan besser auf dich abgestimmt werden kann.
 
     # pricing table loop
     - name : Persönlicher Trainingsplan
@@ -129,4 +145,4 @@ pricing:
       unit : einmalig
       services:
         - pro Plan
-        - Gültig 5 Monate
+        - Der Trainingsplan wird individuell auf dich abgestimmt und für deine Trainingsziele erstellt. Dieses Abo kann zusätzlich zum Open Gym Jahres Abo gebucht werden und ist monatlich kündbar, mit einer Kündigungsfrist von 2 Wochen vor Ablaufzeit.
