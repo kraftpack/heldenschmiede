@@ -132,6 +132,10 @@ preloader = "images/heldenschmiede-logo-200.png"
 enable = false
 expire_days = 2
 
+# goteamup calendar
+[params.calendar]
+enable = true
+
 # google map
 [params.map]
 enable = false
