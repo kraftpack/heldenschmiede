@@ -1,7 +1,7 @@
 - id: blogTitle
-  translation: AKTUELLE BEITRÄGE
+  translation: Aktuelle Beiträge
 - id: readMore
-  translation: Weiter lesen
+  translation: Weiterlesen
 - id: viewAllPost
   translation: Alle Posts anzeigen
 - id: share
@@ -21,9 +21,9 @@
 - id: team
   translation: Team
 - id: pricing
-  translation: Presse
+  translation: Preise
 - id: blog
-  translation: Blog
+  translation: Beiträge
 - id: contact
   translation: Kontakt
 - id: themefisher
