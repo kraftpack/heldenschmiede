@@ -102,14 +102,19 @@ url = "#pricing"
 weight = 4
 
 [[Languages.de.menu.main]]
+name = "Stundenplan"
+url = "#calendarTitle"
+weight = 5
+
+[[Languages.de.menu.main]]
 name = "Beiträge"
 url = "#blog"
-weight = 5
+weight = 6
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
 url = "#contact"
-weight = 6
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]
