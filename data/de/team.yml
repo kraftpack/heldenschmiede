@@ -44,8 +44,8 @@ team:
           link : "https://www.instagram.com/m.copyright91/"
 
     - name : Fiona Pfister
-      image_webp : images/team/mitarbeiter-platzhalter.webp
-      image : images/team/mitarbeiter-platzhalter.jpg
+      image_webp : images/team/Fiona_DSC08118.webp
+      image : images/team/Fiona_DSC08118.jpg
       designation : CF Level 1 Coach
       content : Coacht auch im CrossFit Pyrgos in Meilen ZH, studiert und arbeitet noch 80%. Hat sonst auch ein Leben :-)
       social :
@@ -57,7 +57,7 @@ team:
       image_webp : images/team/Charline_10A2336.webp
       image : images/team/Charline_10A2336.jpg
       designation : Trainerin
-      content : Macht die Weiterbildung zur Prä- und Postnataler Fitnesstrainerin und wird bald die Mrs. Kurpjuweit.
+      content : Macht die Weiterbildung zur Prä- und Postnataler Fitnesstrainerin und wird bald die Mrs. Kurpjuweit. Social Media Manager.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/charline1884/"
