@@ -5,9 +5,9 @@ image_webp: images/blog/grandopening.webp
 image: images/blog/grandopening.jpg
 disable_hero_image: true
 author: Markus Schmid
-description : "Grand Opening"
+description : "Teen Classes"
 ---
 
-{{< hsimg src="/images/blog/Flyer A5 VS.jpg" title="Flyer Front" >}}
-{{< hsimg src="/images/blog/Flyer A5 RS.jpg" title="Flyer Back" >}}
+{{< hsimg src="/images/blog/Front.jpg" title="Flyer Front" >}}
+{{< hsimg src="/images/blog/Back.jpg" title="Flyer Back" >}}
 
