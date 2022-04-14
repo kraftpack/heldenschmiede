@@ -7,6 +7,7 @@ disable_hero_image: true
 author: Markus Schmid
 description : "Teen Classes"
 ---
+Unsere Teen Classes richten sich an Jugendliche im Alter von 12 bis 17 Jahren. Durch unser Training förderst du in einem Workout deine Koordination, Kraft, Ausdauer und deine allgemeine Leistungsfähigkeit.
 
 {{< hsimg src="/images/blog/Front.jpg" title="Flyer Front" >}}
 {{< hsimg src="/images/blog/Back.jpg" title="Flyer Back" >}}
