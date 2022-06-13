@@ -155,12 +155,12 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-Unique Sports-Club Ambühl GbR,
-Sara Ambühl
-Waldshuterstrasse 25
-79761 Waldshut- Tiengen
-Telefon: +49 (0)173 - 64 91 36 5
-E-Mail:info&#64;unique-sportsclub.de
+Kraftpack GmbH
+Markus Schmid
+Erlenweg 6
+CH-5312 Döttingen
+Telefon: +49 (0)173 - 2971 153
+E-Mail:info&#64;heldenschmiede-wt.de
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke
 und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 Speicherdauer
