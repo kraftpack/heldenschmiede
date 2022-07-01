@@ -28,7 +28,7 @@ team:
       image_webp : images/team/Sevald_10A2315.webp
       image : images/team/Sevald_10A2315.jpg
       designation : CF Level 1 Coach
-      content : Papa von bald 3 Kindern, trotzdem keine Augenringe. Wenn er ein Ziel hat, erreicht er es auch.
+      content : Papa von 3 Kindern, trotzdem keine Augenringe. Wenn er ein Ziel hat, erreicht er es auch.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/sevi_gets_fit/"
@@ -47,7 +47,7 @@ team:
       image_webp : images/team/Fiona_DSC08118.webp
       image : images/team/Fiona_DSC08118.jpg
       designation : CF Level 1 Coach
-      content : Coacht auch im CrossFit Pyrgos in Meilen ZH, studiert und arbeitet noch 80%. Hat sonst auch ein Leben :-)
+      content : Pusht unsere Member zu Höchstleistungen und lässt keine Competition aus. Hats gerne warm am Hals ;-)
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com//xmmdt_5/"
@@ -57,7 +57,7 @@ team:
       image_webp : images/team/Charline_10A2336.webp
       image : images/team/Charline_10A2336.jpg
       designation : Trainerin
-      content : Macht die Weiterbildung zur Prä- und Postnataler Fitnesstrainerin und wird bald die Mrs. Kurpjuweit. Social Media Manager.
+      content : Ist Prä- und Postnatale Fitnesstrainerin und wird bald die Mrs. Kurpjuweit. Social Media Managerin.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://www.instagram.com/charline1884/"
@@ -65,7 +65,7 @@ team:
     - name : Sonia Ashkenazy
       image_webp : images/team/Sonia_10A2331.webp
       image : images/team/Sonia_10A2331.jpg
-      designation : Trainerin
+      designation : CF Level 1 Coach
       content : Sonia könnte den ganzen Tag im Handstand laufen, ein Wirbelwind auf 2 Händen oder Füssen, je nach dem.
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
